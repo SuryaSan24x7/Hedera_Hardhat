@@ -28,7 +28,7 @@ Before diving in, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SurysSan24x7/Sol_Hardhat.git
+   git clone https://github.com/SuryaSan24x7/Sol_Hardhat.git
    ```
 2. Navigate into the repository directory:
    ```
