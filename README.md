@@ -64,3 +64,4 @@ This project is licensed under the [MIT License](./LICENSE.md) - see the file fo
 
 ---
 
+Remember to replace placeholders like `your-username/your-repo-name` with your actual GitHub username and repository name. Adjust any specific instructions or descriptions to match the capabilities and requirements of your project.
