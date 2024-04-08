@@ -28,7 +28,7 @@ Before diving in, ensure you have the following installed:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SurysSan24x7/Sol_Hardhat.git
+   git clone https://github.com/SuryaSan24x7/Sol_Hardhat.git
    ```
 2. Navigate into the repository directory:
    ```
@@ -64,4 +64,3 @@ This project is licensed under the [MIT License](./LICENSE.md) - see the file fo
 
 ---
 
-Remember to replace placeholders like `your-username/your-repo-name` with your actual GitHub username and repository name. Adjust any specific instructions or descriptions to match the capabilities and requirements of your project.

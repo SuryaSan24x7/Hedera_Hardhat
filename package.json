@@ -1,0 +1,19 @@
+{
+  "name": "sol_hardhat",
+  "version": "1.0.0",
+  "description": "Solidity Contract Deployment and Testing with Hardhat Welcome to our repository.\r Certainly! Below is a description you might use for your repository. Feel free to adjust it to fit your specific project or needs:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
