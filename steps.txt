@@ -1,0 +1,7 @@
+npm is installed.
+Dependencies installed successfully.
+Compilation successful.
+Deploying contracts...
+Voting deployed to: 0xEFD6051d690A7192DBF04AE2c1A1cD4ae9A400e9
+Deployment successful. Check the deployment data file for contract addresses.
+Success! All steps completed.Contract Deployed on Hedera Hashgraph
