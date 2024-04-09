@@ -1,4 +1,4 @@
-# Sol_Hardhat
+# Hardhat_for_Solidity
 Solidity Contract Deployment and Testing with Hardhat Welcome to our repository.
 Certainly! Below is a description you might use for your repository. Feel free to adjust it to fit your specific project or needs:
 
